@@ -6,7 +6,7 @@
 
 **CoEdited by Yuuki#0802**
 
-# At this point in time BMBF is discontinued, only if you have beat saber version 1.3.0p2 or earlier will you be able to have mods! 
+# At this point in time BeatOn is discontinued, only if you have beat saber version 1.3.0p2 or earlier will you be able to have mods, the new program to mod is BMBF so this repo has been repurposed! I've also taken the liberty to update everyone's mods in this repo to the new format, as well as make them work for 1.4! 
 
 #### DISCLAIMER: Making custom sabers / getting custom sabers to work may require you to reset your assets (thus making you sort your songs again) multiple times, so losing all your song data is not uncommon, I am not responsible for you needing to reset your assets so don't complain about it to me
 
