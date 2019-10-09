@@ -1,0 +1,77 @@
+{
+  "id": "LuminousRepulser",
+  "name": "Luminous Repulser",
+  "author": "Tachrayonic (Saber), Node (Port)",
+  "description": ["Dark Reupulser sword from the anime Sword Art Online, but almost the entire blade is glowing. Dark version also available."],
+  "gameVersion": "1.1.0",
+  "version": "1.0.1",
+  "platform": "Quest",
+  "category": "Saber",
+  "coverImageFilename": "Cover.png",
+  "components": [
+    {
+      "Type": "AssetsMod",
+      "InstallAction": {
+        "PreloadFiles": ["sharedassets12.assets"],
+		"Actions": [
+			{
+				"Type": "ReplaceAsset",
+				"StepNumber": 1,
+				"Locator": { 
+					"TypeIs": "Mesh",
+					"NameIs": "SaberBlade"
+					},
+				"FromDataFile": "SaberBlade.dat"
+			},
+			{
+				"Type": "ReplaceAsset",
+				"StepNumber": 2,
+				"Locator": { 
+					"TypeIs": "Mesh",
+					"NameIs": "SaberGlowingEdges"
+					},
+				"FromDataFile": "SaberGlowingEdges.dat"
+			},
+			{
+				"Type": "ReplaceAsset",
+				"StepNumber": 3,
+				"Locator": { 
+					"TypeIs": "Mesh",
+					"NameIs": "SaberHandle"
+					},
+				"FromDataFile": "SaberHandle.dat"
+			}
+		]
+      },
+	  "UninstallAction": {
+        "PreloadFiles": ["sharedassets12.assets"],
+		"Actions": [
+			{
+				"Type": "RestoreAsset",
+				"StepNumber": 1,
+				"Locator": { 
+					"TypeIs": "Mesh",
+					"NameIs": "SaberBlade"
+					}				
+			},
+			{
+				"Type": "RestoreAsset",
+				"StepNumber": 2,
+				"Locator": { 
+					"TypeIs": "Mesh",
+					"NameIs": "SaberGlowingEdges"
+					}
+			},
+			{
+				"Type": "RestoreAsset",
+				"StepNumber": 3,
+				"Locator": { 
+					"TypeIs": "Mesh",
+					"NameIs": "SaberHandle"
+					}
+			}
+		]
+      }
+    }
+  ]
+}
