@@ -10,11 +10,38 @@
 
 #### DISCLAIMER: Making custom sabers / getting custom sabers to work may require you to reset your assets (thus making you sort your songs again) multiple times, so losing all your song data is not uncommon, I am not responsible for you needing to reset your assets so don't complain about it to me
 
-Beat Saber 1.3.0p2
+Beat Saber 1.4
 ------
 With the new Beat Saber update some changes have to happen to mods to make them work again,. if you made any of them with my guide files you'll find the updated guide files in the repo where they have always been! I hope to see the mods be updated soon!
 
 If you are at home within asset replacement, you'll be able to use this information to update your mods yourself:
+
+>Sabers - no changes
+
+>Notes - no changes
+
+>Platforms - no changes
+
+>Trails - no changes
+
+>Hitsounds - no changes
+
+>Menusounds - no changes
+
+>Menumodels - no changes
+
+>Menutitles - sharedassets 22 -> 23
+
+>Hook mods - no idea
+
+Don't forget to change the gameversion in your beatonmod.json!
+
+
+Beat Saber 1.3.0p2
+------
+this is now an old version, I've left the changes in here so anyone can work out what changes need to be made to downgrade a mod (if possible)
+
+If you are at home within asset replacement, you'll be able to use this information to update/downgrade your mods yourself:
 
 >Sabers - old will install, but can't uninstall -> need updated sharedassets file in json (12 -> 13)
 
