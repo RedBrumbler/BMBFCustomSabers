@@ -6,7 +6,11 @@
 
 **CoEdited by Yuuki#0802**
 
-# At this point in time BeatOn is discontinued, only if you have beat saber version 1.3.0p2 or earlier will you be able to have mods, the new program to mod is BMBF so this repo has been repurposed! I've also taken the liberty to update everyone's mods in this repo to the new format, as well as make them work for 1.4! 
+# At this point in time BeatOn is discontinued, only if you have beat saber version 1.3.0p2 or earlier will you be able to use beatonmods.
+
+### Some unicorns came knocking at my door and gifted us BMBF, with the help of this new program and these unicorns I have managed to update all the mods in the repo! Soon this data will be moved into the BeatOnCustomSabers repo (which will also be renamed after this one is removed) Everyone who had their mods in this repo got their mods updated now, so if there was a saber or mod you liked to use that was discontinued/never updated, now is your chance to use them again!
+
+### if anything does not work be sure to tell me on discord (read the disclaimer as well)
 
 #### DISCLAIMER: Making custom sabers / getting custom sabers to work may require you to reset your assets (thus making you sort your songs again) multiple times, so losing all your song data is not uncommon, I am not responsible for you needing to reset your assets so don't complain about it to me
 
@@ -15,6 +19,8 @@ Beat Saber 1.4
 With the new Beat Saber update some changes have to happen to mods to make them work again,. if you made any of them with my guide files you'll find the updated guide files in the repo where they have always been! I hope to see the mods be updated soon!
 
 If you are at home within asset replacement, you'll be able to use this information to update your mods yourself:
+
+>Rename beatonmod.json to bmbfmod.json, seeing as we now use bmbf
 
 >Sabers - no changes
 
