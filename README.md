@@ -8,7 +8,7 @@
 
 # At this point in time BeatOn is discontinued, only if you have beat saber version 1.3.0p2 or earlier will you be able to use beatonmods.
 
-#Turns out more things changed than I thought, hang on while I fix the mods again! (Menu titles are fine for sure)
+# Turns out more things changed than I thought, hang on while I fix the mods again! (Menu titles are fine for sure)
 
 ### Some unicorns came knocking at my door and gifted us BMBF, with the help of this new program and these unicorns I have managed to update all the mods in the repo! Soon this data will be moved into the BeatOnCustomSabers repo (which will also be renamed after this one is removed) Everyone who had their mods in this repo got their mods updated now, so if there was a saber or mod you liked to use that was discontinued/never updated, now is your chance to use them again!
 
