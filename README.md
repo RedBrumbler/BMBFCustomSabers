@@ -8,7 +8,7 @@
 
 # At this point in time BeatOn is discontinued, only if you have beat saber version 1.3.0p2 or earlier will you be able to use beatonmods.
 
-# Turns out more things changed than I thought, hang on while I fix the mods again! (Menu titles are fine for sure)
+# Turns out more things changed than I thought, hang on while I fix the mods again! (Menu titles are fine for sure, sabers should be fixed now)
 
 ### Some unicorns came knocking at my door and gifted us BMBF, with the help of this new program and these unicorns I have managed to update all the mods in the repo! Soon this data will be moved into the BeatOnCustomSabers repo (which will also be renamed after this one is removed) Everyone who had their mods in this repo got their mods updated now, so if there was a saber or mod you liked to use that was discontinued/never updated, now is your chance to use them again!
 
@@ -24,15 +24,15 @@ If you are at home within asset replacement, you'll be able to use this informat
 
 >Rename beatonmod.json to bmbfmod.json, seeing as we now use bmbf
 
->Sabers - no changes
+>Sabers - sharedassets 13 -> 14
 
->Notes - no changes
+>Notes - sharedassets 14 -> 15
 
 >Platforms - no changes
 
->Trails - no changes
+>Trails - sharedassets 13 -> 14
 
->Hitsounds - no changes
+>Hitsounds - sharedassets 14 -> 15
 
 >Menusounds - no changes
 
@@ -42,7 +42,7 @@ If you are at home within asset replacement, you'll be able to use this informat
 
 >Hook mods - no idea
 
-Don't forget to change the gameversion in your beatonmod.json!
+Don't forget to change the gameversion in your bmbfmod.json!
 
 
 Beat Saber 1.3.0p2
