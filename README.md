@@ -8,8 +8,6 @@
 
 # At this point in time BeatOn is discontinued, only if you have beat saber version 1.3.0p2 or earlier will you be able to use beatonmods.
 
-# Turns out more things changed than I thought, hang on while I fix the mods again! (Menu titles are fine for sure, sabers should be fixed now)
-
 ### Some unicorns came knocking at my door and gifted us BMBF, with the help of this new program and these unicorns I have managed to update all the mods in the repo! Soon this data will be moved into the BeatOnCustomSabers repo (which will also be renamed after this one is removed) Everyone who had their mods in this repo got their mods updated now, so if there was a saber or mod you liked to use that was discontinued/never updated, now is your chance to use them again!
 
 ### if anything does not work be sure to tell me on discord (read the disclaimer as well)
@@ -212,7 +210,7 @@ Put these files in a new folder that is the name of your saber (we will be conve
 
 ![alt text](https://github.com/RedBrumbler/BMBFCustomSabers/blob/master/Guidefiles/modfiles6.png)
 
-Now to make the actual mod, if you haven’t already download the [Guide Files.zip](https://github.com/RedBrumbler/BMBFCustomSabers/raw/master/Guidefiles/Guidefiles.zip) and open the beatonmod.json in a text editor (would not recommend regular notepad, something like notepad++ works way better)
+Now to make the actual mod, if you haven’t already download the [Guide Files.zip](https://github.com/RedBrumbler/BMBFCustomSabers/raw/master/Guidefiles/Guidefiles.zip) and open the bmbfmod.json in a text editor (would not recommend regular notepad, something like notepad++ works way better)
 
 
 
@@ -269,7 +267,7 @@ for my sword I changed it to this:
 
 
 Now that you have all your files ready you can bundle them into a zip file (winrar or 7zip work fine for this) make sure your zip file contains:
-- beatonmod.json
+- bmbfmod.json
 - SaberBlade.dat
 - SaberHandle.dat
 - SaberGlowingEdges.dat
