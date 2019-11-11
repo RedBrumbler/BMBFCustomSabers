@@ -20,54 +20,27 @@ With the new Beat Saber update some changes have to happen to mods to make them 
 
 If you are at home within asset replacement, you'll be able to use this information to update your mods yourself:
 
->Rename beatonmod.json to bmbfmod.json, seeing as we now use bmbf
+>Sabers - sharedassets 14 -> 15
 
->Sabers - sharedassets 13 -> 14
+>Notes - sharedassets 15 -> 16
 
->Notes - sharedassets 14 -> 15
+> Hitsound mods 15 -> 16
 
 >Platforms - no changes
 
->Trails - sharedassets 13 -> 14
+>Trails - sharedassets 14 -> 15
 
->Hitsounds - sharedassets 14 -> 15
+>Hitsounds - sharedassets 15 -> 16
 
 >Menusounds - no changes
 
 >Menumodels - no changes
 
->Menutitles - sharedassets 22 -> 23
+>Menutitles - sharedassets 23 -> 24
 
 >Hook mods - no idea
 
 Don't forget to change the gameversion in your bmbfmod.json!
-
-
-Beat Saber 1.3.0p2
-------
-this is now an old version, I've left the changes in here so anyone can work out what changes need to be made to downgrade a mod (if possible)
-
-If you are at home within asset replacement, you'll be able to use this information to update/downgrade your mods yourself:
-
->Sabers - old will install, but can't uninstall -> need updated sharedassets file in json (12 -> 13)
-
->Notes - old won't install as far as I can tell -> need updated sharedassets file in json  (13 -> 14)
-
->Platforms - no changes
-
->Trails - old won't install as far as I can tell -> need updated sharedassets file in json (12 -> 13)
-
->Hitsounds - no changes
-
->Menusounds - no changes
-
->Menumodels - no changes
-
->Menutitles - no changes
-
->Hook mods - no idea
-
-Don't forget to change the gameversion in your beatonmod.json!
 
 # Table of Contents
 
