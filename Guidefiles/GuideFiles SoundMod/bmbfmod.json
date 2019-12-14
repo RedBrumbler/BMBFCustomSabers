@@ -6,7 +6,7 @@
       "Type": "AssetsMod",
       "InstallAction": {
         "PreloadFiles": [
-          "sharedassets16.assets",
+          "{{{Note}}",
 		  "sharedassets2.assets"
         ],
         "Actions": [
@@ -264,7 +264,7 @@
       },
       "UninstallAction": {
         "PreloadFiles": [
-          "sharedassets16.assets",
+          "{{{Note}}",
 		  "sharedassets2.assets"
         ],
         "Actions": [
@@ -477,7 +477,7 @@
   "description": [
     "Mod Description"
   ],
-  "gameVersion": "1.5.0",
+  "gameVersion": "1.6.0",
   "platform": "Quest",
   "id": "ModID",
   "name": "Mod Name",
