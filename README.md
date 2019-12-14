@@ -10,33 +10,53 @@
 
 #### DISCLAIMER: Making custom sabers / getting custom sabers to work may require you to reset your assets (thus making you sort your songs again) multiple times, so losing all your song data is not uncommon, I am not responsible for you needing to reset your assets so don't complain about it to me
 
-Beat Saber 1.5
+Beat Saber 1.6
 ------
 With the new Beat Saber update some changes have to happen to mods to make them work again,. if you made any of them with my guide files you'll find the updated guide files in the repo where they have always been! I hope to see the mods be updated soon!
 
+saber - sharedassets18
+trail - sharedassets18
+notes - sharedassets19
+menu title - sharedassets23
+platform - sharedassets3
+
 If you are at home within asset replacement, you'll be able to use this information to update your mods yourself:
 
->Sabers - sharedassets 14 -> 15
+>Sabers - sharedassets 15 -> 18
 
->Notes - sharedassets 15 -> 16
+>Notes - sharedassets 16 -> 19
 
-> Hitsound mods 15 -> 16
+>Hitsound mods 16 -> 19
 
 >Platforms - no changes
 
->Trails - sharedassets 14 -> 15
-
->Hitsounds - sharedassets 15 -> 16
+>Trails - sharedassets 15 -> 18
 
 >Menusounds - no changes
 
 >Menumodels - no changes
 
->Menutitles - sharedassets 23 -> 24
+>Menutitles - sharedassets 24 -> 23
 
 >Hook mods - no idea
 
 Don't forget to change the gameversion in your bmbfmod.json!
+
+Alternatively the unicorns have provided some easy redirections to get to commonly used sharedasset files!
+
+they are:
+
+"{{Saber}}"
+
+"{{MenuTitle}}"
+
+"{{Trail}}"
+
+"{{Note}}"
+
+"{{Platform}}"
+
+using these instead of "sharedassetsxx.assets" yields the same result, so this can be used as well!
 
 # Table of Contents
 
