@@ -1,10 +1,11 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.IO.Compression;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
+using System.Net;
 
 public class CompileQuestSaberWindow : EditorWindow
 {
@@ -19,6 +20,16 @@ public class CompileQuestSaberWindow : EditorWindow
 
     void OnGUI()
     {
+        if(GUILayout.Button("Check For Updated GUI"))
+        {
+            string savepath = Application.dataPath + "/downloadedCompileQuestSaberWindow.txt";
+            GetText("CompileQuestSaberWindow.cs", savepath);
+
+            File.Delete(Application.dataPath + "/Editor/CompileQuestSaberWindow.cs");
+            File.Move(Application.dataPath + "/downloadedCompileQuestSaberWindow.txt", Application.dataPath + "/Editor/CompileQuestSaberWindow.cs");
+            AssetDatabase.Refresh();
+        }
+
         GUILayout.Label("QuestSabers", EditorStyles.boldLabel);
 
 		GUILayout.Space(20);
@@ -377,4 +388,18 @@ public class CompileQuestSaberWindow : EditorWindow
 		}
 		return b;
 	}
+    void GetText(string file_name, string savePath)
+    {
+        string url = @"https://raw.githubusercontent.com/RedBrumbler/BMBFCustomSabers/master/Guidefiles/QuestSaber/" + file_name;
+
+        WebClient client = new WebClient();
+
+        Stream data = client.OpenRead(url);
+        StreamReader reader = new StreamReader(data);
+        string s = reader.ReadToEnd();
+        File.WriteAllText(savePath, s);
+        data.Close();
+        reader.Close();
+    }
+
 }
