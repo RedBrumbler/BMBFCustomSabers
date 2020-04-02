@@ -240,7 +240,7 @@ public class CompileQuestSaberWindow : EditorWindow
                             Camera cam = GameObject.CreatePrimitive(PrimitiveType.Quad).AddComponent<Camera>();
                             cam.transform.localPosition = new Vector3(0.36f, 0.22f, -0.05f);
                             cam.transform.localEulerAngles = new Vector3(30f, -60f, 0.0f);
-                            cam.backgroundColor = Color.black;
+                            cam.backgroundColor = new Color(0.0f, 0.0f, 25.0f / 256.0f);
 
                             RenderTexture tempRT = new RenderTexture(w, h, 24);
                             tempRT.antiAliasing = 8;
