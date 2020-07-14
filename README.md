@@ -1,6 +1,6 @@
 <!---**These guides are RedBrumbler's guides**--->
 
-# Guide to Making Custom Sabers for BMBF
+# THIS GUIDE IS EXTREMELY OUTDATED, GO TO THE [WIKI](https://github.com/RedBrumbler/BMBFCustomSabers/wiki/RedBrumblers-Asset-Mod-Guide-Wiki) FOR UPDATED GUIDES
 
 ### @RedBrumbler#6295 ‘s (or u/RedBrumbler) Guide to making custom sabers for the BMBF Asset replacement mod
 
