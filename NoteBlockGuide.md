@@ -1,3 +1,1 @@
-# Guide to Making Custom NoteBlocks for BMBF
-
-### @RedBrumbler#6295 ‘s (or u/RedBrumbler) Guide to making custom noteblocks for the BMBF Asset replacement mod
+# THIS GUIDE DOES NOT EXIST, GO TO THE [WIKI](https://github.com/RedBrumbler/BMBFCustomSabers/wiki/RedBrumblers-Asset-Mod-Guide-Wiki) AND USE THE SABER GUIDE TO MAKE MODELS WORK IN BEAT SABER, THEN USE THE MOD TEMPLATE IN GUIDEFILES TO MAKE IT WORK
