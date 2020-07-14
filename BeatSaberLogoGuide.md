@@ -1,6 +1,6 @@
 <!---**These guides are RedBrumbler's guides**--->
 
-# Guide to Making Beat Saber Menu Logo's for BMBF
+# THIS GUIDE IS EXTREMELY OUTDATED, GO TO THE [WIKI](https://github.com/RedBrumbler/BMBFCustomSabers/wiki/RedBrumblers-Asset-Mod-Guide-Wiki) FOR UPDATED GUIDES
 
 ### @RedBrumbler#6295 ‘s (or u/RedBrumbler) Guide to making custom beat saber logo's for the BMBF Asset replacement mod
 
