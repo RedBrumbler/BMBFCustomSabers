@@ -6,8 +6,6 @@
 
 **CoEdited by Yuuki#0802**
 
-# ATTENTION, THIS GUIDE IS OUTDATED, HEAD TO [THE WIKI INSTEAD](https://github.com/RedBrumbler/BMBFCustomSabers/wiki/RedBrumblers-Asset-Mod-Guide-Wiki)
-
 ### if anything does not work be sure to tell me on discord (read the disclaimer as well)
 
 #### DISCLAIMER: Making custom sabers / getting custom sabers to work may require you to reset your assets (thus making you sort your songs again) multiple times, so losing all your song data is not uncommon, I am not responsible for you needing to reset your assets so don't complain about it to me
