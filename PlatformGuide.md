@@ -1,6 +1,6 @@
 <!---**These guides are RedBrumbler's guides**--->
 
-# Guide to Making Custom Platforms for BMBF
+# THIS GUIDE IS EXTREMELY OUTDATED, PLATFORMS LIKE THIS NO LONGER WORK, GO TO THE [WIKI](https://github.com/RedBrumbler/BMBFCustomSabers/wiki/RedBrumblers-Asset-Mod-Guide-Wiki) FOR UPDATED GUIDES
 
 ### @RedBrumbler#6295 ‘s (or u/RedBrumbler) Guide to making custom platforms for the BMBF Asset replacement mod
 
