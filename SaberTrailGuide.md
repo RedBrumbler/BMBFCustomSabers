@@ -1,3 +1,1 @@
-# Guide to Making Custom SaberTrails for BMBF
-
-### @RedBrumbler#6295 ‘s (or u/RedBrumbler) Guide to making custom sabertrails for the BMBF Asset replacement mod
+# THIS GUIDE DOES NOT EXIST, GO TO THE [WIKI](https://github.com/RedBrumbler/BMBFCustomSabers/wiki/RedBrumblers-Asset-Mod-Guide-Wiki) AND USE THE LOGO GUIDE TO MAKE AN IMAGE THAT WORKS AND USE A TRAIL AND REPLACE THE FULLTRAIL.DAT WITH YOUR FULLTRAIL.DAT FILE
