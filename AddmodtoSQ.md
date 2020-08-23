@@ -1,5 +1,7 @@
 <!---**These guides are RedBrumbler's guides**--->
 
+# THIS IS NO LONGER POSSIBLE, SIDEQUEST NO LONGER SUPPORTS BEAT SABER MODS
+
 # Guide to adding mods to SideQuest
 
 ### @RedBrumbler#6295 ‘s (or u/RedBrumbler) Guide to adding mods to Sidequest
